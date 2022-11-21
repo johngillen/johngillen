@@ -17,7 +17,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           config_timezone: America/Chicago
-          config_display: columns
 
           base: header, activity, repositories
 
