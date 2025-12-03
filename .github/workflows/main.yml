@@ -21,6 +21,7 @@ jobs:
           base: header, activity, repositories
 
           plugin_activity: yes
+          plugin_activity_filter: all
           plugin_activity_limit: 1
           plugin_activity_visibility: public
           plugin_activity_timestamps: yes
